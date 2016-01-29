@@ -38,3 +38,5 @@
 37. Aplicativo para registrar mudanças de humor do usuário
 38. Aplicativo para acompanhamento da saúde de pets
 39. Nova aba do chrome com look do dia
+40. Tinder para gordinhos
+41. 15conto.com.br - avisa onde tem lanches até 15 reais perto do usuário

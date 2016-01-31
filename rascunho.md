@@ -40,3 +40,4 @@
 39. Nova aba do chrome com look do dia
 40. Tinder para gordinhos
 41. 15conto.com.br - avisa onde tem lanches até 15 reais perto do usuário
+42. Aplicativo/site para ofender um estranho gratuitamente

@@ -41,3 +41,4 @@
 40. Tinder para gordinhos
 41. 15conto.com.br - avisa onde tem lanches até 15 reais perto do usuário
 42. Aplicativo/site para ofender um estranho gratuitamente
+43. Aplicativo para acompanhar oscilações de humor

@@ -43,3 +43,4 @@
 42. Aplicativo/site para ofender um estranho gratuitamente
 43. Aplicativo para acompanhar oscilações de humor
 44. Aplicativo para gerar gráfico tipo "papi 3" para competências em tecnologia front-end
+45. Site app agregador de horóscopos no qual o usuário escolhe só receber coisas boas

@@ -47,4 +47,4 @@
 46. Site de financiamento coletivo de extensão para licença maternidade
 47. Share a gif: uma rede social para pessoas guardarem links de gifs com decrição.
 48. Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada
-49. Tech mashup - um site que propõe mashups entre duas mashups
+49. Tech mashup - um site que propõe mashups entre duas startups de tecnologia

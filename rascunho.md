@@ -46,3 +46,4 @@
 45. Site app agregador de horóscopos no qual o usuário escolhe só receber coisas boas
 46. Site de financiamento coletivo de extensão para licença maternidade
 47. Share a gif: uma rede social para pessoas guardarem links de gifs com decrição.
+48. Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada

@@ -49,3 +49,5 @@
 48. Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada
 49. Tech mashup - um site que propõe mashups entre duas startups de tecnologia
 50. Um tinder-like sem fotos, mas com descrições de personalidade baseada em mbti
+51. Site que testa a combinações amorosas entre os 16 diferentes tipos de personalidades
+52. Aplicativo que ajuda a ter sonhos lúcidos

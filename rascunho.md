@@ -47,7 +47,12 @@
 46. Site de financiamento coletivo de extensão para licença maternidade
 47. Share a gif: uma rede social para pessoas guardarem links de gifs com decrição.
 48. Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada
-49. Tech mashup - um site que propõe mashups entre duas startups de tecnologia
+49. tech mashup - um site que propõe mashups entre duas startups de tecnologia
 50. Um tinder-like sem fotos, mas com descrições de personalidade baseada em mbti
 51. Site que testa a combinações amorosas entre os 16 diferentes tipos de personalidades
 52. Aplicativo que ajuda a ter sonhos lúcidos
+53. Show My Support - Aplicativo em que o usuário suporta algumas causas publicamente e mostra quem também suporta as mesmas causas por perto
+54. Site que usa o gitbook para facilitar a criação de trabalhos acadêmicos no padrão abnt
+55. Site para criação de currículos em formato de repositório do github
+56. Site/Aplicativo para newsletter de cursos gratuitos
+57. Aplicativo que gamifica a vida de quem começou recentemente a morar sozinho

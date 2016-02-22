@@ -56,3 +56,4 @@
 55. Site para criação de currículos em formato de repositório do github
 56. Site/Aplicativo para newsletter de cursos gratuitos
 57. Aplicativo que gamifica a vida de quem começou recentemente a morar sozinho
+58. Um site que insere uma faixa "compartilhe" automaticamente nas imagens de exibição de um post pro facebook

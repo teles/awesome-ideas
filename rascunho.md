@@ -58,3 +58,4 @@
 57. Aplicativo que gamifica a vida de quem começou recentemente a morar sozinho
 58. Um site que insere uma faixa "compartilhe" automaticamente nas imagens de exibição de um post pro facebook
 59. Pornrpepeat - Youtube repeat para xvideos e outros sites pornos
+60. Aplicativo para marcar corte de cabelo e serviços estéticos para homens

@@ -59,3 +59,4 @@
 58. Um site que insere uma faixa "compartilhe" automaticamente nas imagens de exibição de um post pro facebook
 59. Pornrpepeat - Youtube repeat para xvideos e outros sites pornos
 60. Aplicativo para marcar corte de cabelo e serviços estéticos para homens
+61. Crowdfunding para financiamento de micos

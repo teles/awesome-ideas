@@ -61,3 +61,4 @@
 60. Aplicativo para marcar corte de cabelo e serviços estéticos para homens
 61. Crowdfunding para financiamento de micos
 62. Commit challenge: desafie um amigo seu no github, cada commit dele você paga uma prenda
+63. Github poster, um aplicativo que se conecta no github e cria um poster customizado do perfil do usuário

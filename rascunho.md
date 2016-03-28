@@ -5,7 +5,7 @@
 5. Site para blogueiros que procuram blogs para escrever guest posts
 6. Site gerador de schema.org para blogs
 7. Template jekyll com page speed 100%
-8. Página de admin paga jekyll
+8. Página de admin para jekyll
 9. Site para compartilhamento de ideias gratuitas
 10. Histórico do git em formato rss
 11. Jogo 8 bits dentro do google maps

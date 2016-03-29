@@ -66,3 +66,4 @@
 65. Receba notificações do seu github nas notificações do seu facebook
 66. Tinder-like para projetos de lei
 67. Template jekyll para repositório de trabalhos acadêmicos
+68. Starhub - tinder like para repositórios do github usando recurso de dar "star" no repositório

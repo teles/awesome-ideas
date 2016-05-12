@@ -69,3 +69,4 @@
 68. Starhub - tinder like para repositórios do github usando recurso de dar "star" no repositório
 69. Democratize - aplicativo para gerenciar votações que viram regras para grupos de pessoas 
 70. Filmz - aplicativo que descobre interseções entre filmes não vistos por N usuários diferentes
+71. Legisle - Um aplicativo de crowdfunding para elaboração de projetos de lei

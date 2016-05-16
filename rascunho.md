@@ -71,3 +71,5 @@
 70. Filmz - aplicativo que descobre interseções entre filmes não vistos por N usuários diferentes
 71. Legisle - Um aplicativo de crowdfunding para elaboração de projetos de lei
 72. Escolhe nomes - responda um quizz e receba sugestões de nomes para seu filho
+73. Plugin de integração entre Habitica e Pocket que transforma posts pra ler em tarefas para cumprir
+74. Serviço que transforma avatar do Habitica em imagem de exibição do github

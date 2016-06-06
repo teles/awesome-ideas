@@ -77,3 +77,4 @@
 76. Newsletter com ideias de post baseado em postagens de posts selecionados pelo usuário
 77. Pomodoro music: site com listas de músicas que duram 25 minutos cada lista
 78. More than match - aplicativo em que casais respondem perguntas sobre relacionamento e recebem dicas baseadas em índice de qualidade do relacionamento
+79. Time2Money - Converta preços de mercadorias online em tempo que você gastará para pagá-las

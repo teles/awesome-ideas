@@ -80,3 +80,4 @@
 79. Time2Money - Converta preços de mercadorias online em tempo que você gastará para pagá-las
 80. Tinderfy - Transforme qualquer enquete em uma votação SIM ou NÃO estilo tinder
 81. Relógio monitor de oscilações (mania/depressão) para portadores de bipolaridade - ideia da Luana
+82. Slack bot nutricional - slack bot que avisa para comer uma vez a cada 3 horas e gerencia a nutrição diária do usuário

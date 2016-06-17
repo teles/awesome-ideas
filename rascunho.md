@@ -81,3 +81,4 @@
 80. Tinderfy - Transforme qualquer enquete em uma votação SIM ou NÃO estilo tinder
 81. Relógio monitor de oscilações (mania/depressão) para portadores de bipolaridade - ideia da Luana
 82. Slack bot nutricional - slack bot que avisa para comer uma vez a cada 3 horas e gerencia a nutrição diária do usuário
+83. Onde vamos almoçar hoje - aplicativo que manda uma enquete meia hora antes da hora do almoço para um grupo de pessoas

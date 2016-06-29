@@ -85,3 +85,4 @@
 84. Delegacia mais próxima - encontre a delegacia mais próxima e veja classificação dos usuários para tempo de atendimento
 85. 10ideias - cadastre seu site/negocio-online, de 10 ideias para outra pessoa e receba 10 ideias de outra pessoa
 86. Unsign - Extensão do chrome que esconde matérias sobre signos
+87. Coletivator - plataforma para apoio a coletivos de blogs, com sistema de pontuação para atividades de link building

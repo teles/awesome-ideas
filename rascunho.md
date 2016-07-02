@@ -88,3 +88,5 @@
 87. Coletivator - plataforma para apoio a coletivos de blogs, com sistema de pontuação para atividades de link building
 88. ThinkBefore - aplicativo para celular que te faz perguntas antes de uma compra para verificar se vc está comprando algo que precisa
 89. Gorjeta social - aplicativo para bares em que cliente decide dividir parte da taxa de serviço para instituições filantrópicas
+90. Introvert friendly - lista online colaborativa de locais amigáveis para pessoas introvertidas
+91. github bio generator - gerador de bio para github baseada no perfil do usuário

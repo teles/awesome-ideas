@@ -1,2 +1,0 @@
-# appideas
-App ideas.

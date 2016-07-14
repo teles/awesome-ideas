@@ -91,4 +91,5 @@
 89. Gorjeta social - aplicativo para bares em que cliente decide dividir parte da taxa de serviço para instituições filantrópicas
 90. Introvert friendly - lista online colaborativa de locais amigáveis para pessoas introvertidas
 91. github bio generator - gerador de bio para github baseada no perfil do usuário
+92. Receita de chocolate - site listando apenas receita com chocolate de diversas fontes possíveis
 

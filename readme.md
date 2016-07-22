@@ -93,4 +93,5 @@
 91. github bio generator - gerador de bio para github baseada no perfil do usuário
 92. Receita de chocolate - site listando apenas receita com chocolate de diversas fontes possíveis
 93. Plugin do chrome que quando ativado troca facebook.com por uma página pedindo para que seu amigo não hackeie seu facebook
+94. Dontnote - um plugin para deixar o dontpad.com mais parecido com o evernote
 

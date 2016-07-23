@@ -94,4 +94,5 @@
 92. Receita de chocolate - site listando apenas receita com chocolate de diversas fontes possíveis
 93. Plugin do chrome que quando ativado troca facebook.com por uma página pedindo para que seu amigo não hackeie seu facebook
 94. Dontnote - um plugin para deixar o dontpad.com mais parecido com o evernote
+95. Gitflix - netflix de tutoriais de desenvolvimento de software
 

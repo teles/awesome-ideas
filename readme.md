@@ -95,4 +95,5 @@
 93. Plugin do chrome que quando ativado troca facebook.com por uma página pedindo para que seu amigo não hackeie seu facebook
 94. Dontnote - um plugin para deixar o dontpad.com mais parecido com o evernote
 95. Gitflix - netflix de tutoriais de desenvolvimento de software
+96. Plugin do chrome que remove as opções de amigos sugeridos das redes sociais mais famosas
 

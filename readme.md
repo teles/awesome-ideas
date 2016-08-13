@@ -96,4 +96,6 @@
 94. Dontnote - um plugin para deixar o dontpad.com mais parecido com o evernote
 95. Gitflix - netflix de tutoriais de desenvolvimento de software
 96. Plugin do chrome que remove as opções de amigos sugeridos das redes sociais mais famosas
+97. Aplicativo mobile para alarmes que tocam quando se chega em um ponto via gps ou quando se chega em casa
+98. Site/addon para criar e compartilhar slideshows com fotos do instagram
 

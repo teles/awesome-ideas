@@ -99,4 +99,8 @@
 97. Aplicativo mobile para alarmes que tocam quando se chega em um ponto via gps ou quando se chega em casa
 98. Site/addon para criar e compartilhar slideshows com fotos do instagram
 99. Aplicativo para medir saúde do relacionamento de um casal - instalado para ambos, verifica atividades/sentimentos e sugere atitude
+100. Blog/Canal no youtube com resenhas de produtos menos famosos que as pessoas tem dúvidas se deveriam comprar
+101. Jogo estilo scroll up (Dash Quest) mas com roteiro estilo RPG de Jogo da Vida
+102. Site para transformar qualquer mapa mental em uma página mobile
+103. Aplicativo de pontualidade, cadastre seus desafios de pontualidade e acompanhe (conecta com habitica)
 

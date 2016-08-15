@@ -98,4 +98,5 @@
 96. Plugin do chrome que remove as opções de amigos sugeridos das redes sociais mais famosas
 97. Aplicativo mobile para alarmes que tocam quando se chega em um ponto via gps ou quando se chega em casa
 98. Site/addon para criar e compartilhar slideshows com fotos do instagram
+99. Aplicativo para medir saúde do relacionamento de um casal - instalado para ambos, verifica atividades/sentimentos e sugere atitude
 

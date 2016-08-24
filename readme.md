@@ -107,4 +107,4 @@
 105. Aplicativo de histórias de amor
 106. Aplicativo para armazenar informações de cartões magnéticos (crédito, débito, cpf, plano de saúde)
 107. Aplicativo gerenciador de hábitos ruins (focado em reclamações)
-
+108. Aplicativo de receitas para fritadeira a ar, acompanha e avisa tempo de cozimento e sugere receitas por ingredientes

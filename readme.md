@@ -110,3 +110,4 @@
 108. Aplicativo de receitas para fritadeira a ar, acompanha e avisa tempo de cozimento e sugere receitas por ingredientes
 109. City hacks: aplicativo para compartilhar dicas sobre como usar sua cidade perto do local onde você está
 110. Meu primeiro game: repositório para orientar desenvolvedores que querem criar seu primeiro jogo  
+111. Manifesto. Aplicativo que permite saber onde e porque estao ocorrendo manifestos populares

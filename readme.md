@@ -111,3 +111,9 @@
 109. City hacks: aplicativo para compartilhar dicas sobre como usar sua cidade perto do local onde você está
 110. Meu primeiro game: repositório para orientar desenvolvedores que querem criar seu primeiro jogo  
 111. Manifesto. Aplicativo que permite saber onde e porque estao ocorrendo manifestos populares
+112. Aponte celular para muro de candidato e saiba dados sobre ele, antes das eleições
+113. Aplicativo com ofertas válidas apenas durante a madrugada
+114. Repositório para desenvolvedores fazerem seus próprios stickers
+115. Push notificação passagens aéreas de madrugada
+116. Aplicativo planejador de saúde -> receita médica com acompanhamento
+117. Tinder like para estampas de camisetas

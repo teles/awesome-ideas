@@ -117,3 +117,4 @@
 115. Push notificação passagens aéreas de madrugada
 116. Aplicativo planejador de saúde -> receita médica com acompanhamento
 117. Tinder like para estampas de camisetas
+118. Aplicativo para registrar histórico pessoal de medição em balança de bioimpedância

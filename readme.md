@@ -119,6 +119,8 @@
 117. Tinder like para estampas de camisetas
 118. Aplicativo para registrar histórico pessoal de medição em balança de bioimpedância
 118. Awesome repository - repositório com static man para criar repositórios awesome
+119. Renovômetro - gráficos sobre índice de renovação política de cidades/estados brasileiros
+120. Aplicativo para ajudar pessoas consumistas a pensarem antes de consumir
 
 
 

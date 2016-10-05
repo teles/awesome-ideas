@@ -121,6 +121,7 @@
 118. Awesome repository - repositório com static man para criar repositórios awesome
 119. Renovômetro - gráficos sobre índice de renovação política de cidades/estados brasileiros
 120. Aplicativo para ajudar pessoas consumistas a pensarem antes de consumir
+121. Devo ou não trancar - formulário para o usuário saber se deve ou não trancar a faculdade
 
 
 

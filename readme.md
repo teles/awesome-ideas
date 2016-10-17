@@ -125,4 +125,5 @@
 124. Bot para Telegram para concentrar grupos de Desenvolvimento no Telegram.
 125. App para mapear/listar casos/focos de dengue.
 126. Quanto custa - Site/app com informações do tipo: "Quanto custa cada vez que se abre a geladeira? Quanto custa ligar o carro?"
+127. Awesome 1 ano de favoritos - receba 1 ano de favoritos de profissionais da sua área. Exemplo: 1 ano de links de front end pleno
 

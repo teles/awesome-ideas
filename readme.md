@@ -124,4 +124,5 @@
 123. Devo ou não trancar - formulário para o usuário saber se deve ou não trancar a faculdade
 124. Bot para Telegram para concentrar grupos de Desenvolvimento no Telegram.
 125. App para mapear/listar casos/focos de dengue.
+126. Quanto custa - Site/app com informações do tipo: "Quanto custa cada vez que se abre a geladeira? Quanto custa ligar o carro?"
 

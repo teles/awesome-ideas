@@ -132,5 +132,6 @@
 131. Só spoilers - site com lista de spoiler/ spoiler aleatório/ jogo do spoiler falso
 132. i18n commits - ferramenta de linha de comando para traduzir commits pushados para outra língua
 133. Plano de governo da própria vida - Site em que usuário recebe dicas de como organizar sua própria vida como um plano de governo
+134. Site com lista de projetos github pela [personalidade](https://www.16personalities.com/br) do dono do repositório + [badge como essa](https://img.shields.io/badge/person-INFP-blue.svg)
 
 

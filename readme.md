@@ -129,4 +129,5 @@
 128. Um repositório github com um manifesto e uma badge para indicar programadores progressistas (politicamente)
 129. Plugin Sublime para utilizar o Habitica nos moldes do [plugin do Evernote](https://github.com/jamiesun/SublimeEvernote)
 130. Conta passos - aplicativo para fazer um planejamento de lugares para ir e caminhar tantos passos ao dia
+131. Só spoilers - site com lista de spoiler/ spoiler aleatório/ jogo do spoiler falso
 

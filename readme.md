@@ -130,4 +130,7 @@
 129. Plugin Sublime para utilizar o Habitica nos moldes do [plugin do Evernote](https://github.com/jamiesun/SublimeEvernote)
 130. Conta passos - aplicativo para fazer um planejamento de lugares para ir e caminhar tantos passos ao dia
 131. Só spoilers - site com lista de spoiler/ spoiler aleatório/ jogo do spoiler falso
+132. i18n commits - ferramenta de linha de comando para traduzir commits pushados para outra língua
+133. Plano de governo da própria vida - Site em que usuário recebe dicas de como organizar sua própria vida como um plano de governo
+
 

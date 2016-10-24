@@ -128,4 +128,5 @@
 127. Awesome 1 ano de favoritos - receba 1 ano de favoritos de profissionais da sua área. Exemplo: 1 ano de links de front end pleno
 128. Um repositório github com um manifesto e uma badge para indicar programadores progressistas (politicamente)
 129. Plugin Sublime para utilizar o Habitica nos moldes do [plugin do Evernote](https://github.com/jamiesun/SublimeEvernote)
+130. Conta passos - aplicativo para fazer um planejamento de lugares para ir e caminhar tantos passos ao dia
 

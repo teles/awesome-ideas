@@ -134,5 +134,7 @@
 133. Plano de governo da própria vida - Site em que usuário recebe dicas de como organizar sua própria vida como um plano de governo
 134. Site com lista de projetos github pela [personalidade](https://www.16personalities.com/br) do dono do repositório + [badge como essa](https://img.shields.io/badge/person-INFP-blue.svg)
 135. [Repositório](github.com/teles/micro-contributions) de listagem de contribuições rápidas e não urgentes para o github
+136. Prerender AMP - um serviço de prerenderização que mantém scripts amp
+137. Site com lista de serviços comuns na internet e seus padrões de senha que permitam ao usuário criar uma senha adequada a todos os serviços de uma vez
 
 

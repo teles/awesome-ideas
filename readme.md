@@ -139,5 +139,7 @@
 135. [Repositório](github.com/teles/micro-contributions) de listagem de contribuições rápidas e não urgentes para o github
 136. Prerender AMP - um serviço de prerenderização que mantém scripts amp
 137. Site com lista de serviços comuns na internet e seus padrões de senha que permitam ao usuário criar uma senha adequada a todos os serviços de uma vez
-
+138. Aplicativo de celular que mostra % de chance de ser assaltado por onde o usuário anda
+139. Aplicativo para registrar tarefas mais importantes do dia e da semana, estilo zen to done
+140. Plugin chrome para dizer que uma notícia no facebook é mentira
 

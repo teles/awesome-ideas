@@ -142,4 +142,5 @@
 138. Aplicativo de celular que mostra % de chance de ser assaltado por onde o usuário anda
 139. Aplicativo para registrar tarefas mais importantes do dia e da semana, estilo zen to done
 140. Plugin chrome para dizer que uma notícia no facebook é mentira
+141. Plugin para um grupo de pessoas selecionar juntos itens a serem comprados no Home Refil
 

@@ -145,4 +145,5 @@
 141. Plugin para um grupo de pessoas selecionar juntos itens a serem comprados no Home Refil
 142. Plugin chrome que avisa nas lojas online quando um item (de roupa, por exemplo) já apareceu em algum post de blog
 143. Conversor de gitbook para wiki do github e de wiki do github para gitbook
+144. Github compare export - botão para exportar resultado de compare do github para ser colado em outros lugares como o Jira.
 

@@ -148,3 +148,4 @@
 144. Github compare export - botão para exportar resultado de compare do github para ser colado em outros lugares como o Jira.
 145. Super trunfo de lugares para se visitar na cidade de São Paulo
 146. "Test my readme" - usuário do github que recebe requisições de teste de readme, verificando propriedades básicas e pedindo nota para outros usuários
+147. Tenho que ir - Aplicativo que sugere ao usuário quanto tempo depois do início de um evento social é seguro ele ir embora sem sofrer reprovação 

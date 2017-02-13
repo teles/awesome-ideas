@@ -152,3 +152,4 @@
 148. Site que mostra diferenças entre escalaçoes de times e selecoes em jogos de futebol para computador de um ano pra outro
 149. Plugin para WordPress e/ou Chrome que faz [highlight de ritmo de texto](https://www.nexojornal.com.br/grafico/2017/01/30/O-ritmo-e-o-estilo-de-diferentes-obras-liter%C3%A1rias-brasileiras)
 150. Canivetejs - coleção pública de funções úteis para js
+151. Plugin chrome que permite visualização de vídeos em arquivos markdown do github

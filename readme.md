@@ -153,3 +153,6 @@
 149. Plugin para WordPress e/ou Chrome que faz [highlight de ritmo de texto](https://www.nexojornal.com.br/grafico/2017/01/30/O-ritmo-e-o-estilo-de-diferentes-obras-liter%C3%A1rias-brasileiras)
 150. Canivetejs - coleção pública de funções úteis para js
 151. Plugin chrome que permite visualização de vídeos em arquivos markdown do github
+152. Homologue.me - plataforma para organização homologação manual de sistemas web
+153. Vagas aqui - aplicativo que avisa quando uma empresa pela qual você passou perto está contratando
+154. Fake interview - Rede social para simulação de entrevistas com recrutadores estrangeiros

@@ -159,3 +159,5 @@
 155. Aplicativo de gameficação de cuidados pessoais. Ganhe pontos e seja cobrados por tarefas como fazer a barba, arrumar a cama e escovar os dentes
 156. Zero clik - plugin que exibe um resumo de noticias logo abaixo da chamada da noticia evitando cliques por curiosidade
 157. Aplicativo de realidade aumentada que converte moedas quando a câmera é apontada para um preço
+158. Aplicativo com lista de músicas que desestimulam a compra por impulso para ouvir ao entrar em magazines
+159. Aplicativo com lista de lugares para fazer home office em SP

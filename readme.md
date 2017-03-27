@@ -161,3 +161,5 @@
 157. Aplicativo de realidade aumentada que converte moedas quando a câmera é apontada para um preço
 158. Aplicativo com lista de músicas que desestimulam a compra por impulso para ouvir ao entrar em magazines
 159. Aplicativo com lista de lugares para fazer home office em SP
+160. Aplicativo que recebe sinal de sensor instalado em ônibus circular avisando que o ônibus vai para o destino que o usuário informar e que horas deve chegar
+161. Aplicativo para registrar quantos kilômetros já foram caminhados com cada tênis do usuário

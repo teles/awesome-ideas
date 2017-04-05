@@ -164,3 +164,5 @@
 160. Aplicativo que recebe sinal de sensor instalado em ônibus circular avisando que o ônibus vai para o destino que o usuário informar e que horas deve chegar
 161. Aplicativo para registrar quantos kilômetros já foram caminhados com cada tênis do usuário
 162. You could use ES6: organização do github que recebe mentions com seu nome e monta lista com trechos de codigo javascript que poderia ser escrito em ES6
+163. Reserve o banheiro - Aplicativo para reservar um banheiro comum com antecedência e avisar amigos da sua utilização
+164. Travel by blogs - Aplicativo de coloca posts de blogs com dicas de viagem no mapa

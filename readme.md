@@ -167,3 +167,5 @@
 163. Reserve o banheiro - Aplicativo para reservar um banheiro comum com antecedência e avisar amigos da sua utilização
 164. Travel by blogs - Aplicativo de coloca posts de blogs com dicas de viagem no mapa
 165. 501 ideias gratuitas - site com todas essas ideias em inglês e português e com missão de chegar em 501 ideias gratuitas
+166. Think different - extensão para navegador que te mostra itens da timeline de pessoas que pensam diferente de você na sua timeline
+167. Linha de comando javascript que organiza testes do karmajs por nomes de pokemons

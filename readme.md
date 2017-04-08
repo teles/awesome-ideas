@@ -169,3 +169,4 @@
 165. 501 ideias gratuitas - site com todas essas ideias em inglês e português e com missão de chegar em 501 ideias gratuitas
 166. Think different - extensão para navegador que te mostra itens da timeline de pessoas que pensam diferente de você na sua timeline
 167. Linha de comando javascript que organiza testes do karmajs por nomes de pokemons
+168. Aplicativo para listar/categorizar/procurar pelos [1000 posteres em alta resolucao](http://forum.blu-ray.com/showthread.php?t=220892)

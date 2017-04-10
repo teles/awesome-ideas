@@ -171,3 +171,4 @@
 167. Linha de comando javascript que organiza testes do karmajs por nomes de pokemons
 168. Aplicativo para listar/categorizar/procurar pelos [1000 posteres em alta resolucao](http://forum.blu-ray.com/showthread.php?t=220892)
 169. Maybe later - Aplicativo em que o usuário cadastra coisas que teve vontade de comprar e recebe um aviso em X tempo perguntando se ainda quer comprar
+170. Verifica - aplicativo que permite ao usuario quando entrar em um espaco publico ver o historico de gastos publicos e manutencao recente desse espaco

@@ -174,3 +174,4 @@
 170. Verifica - aplicativo que permite ao usuario quando entrar em um espaco publico ver o historico de gastos publicos e manutencao recente desse espaco
 171. Aplicativo que lista o nome das ruas de SP. Quem cada rua homenageia, quando recebeu esse nome e tem votacao de curto/nao curto o nome
 172. Aplicativo para listar as melhores coxinhas e pastéis de SP classificados por: cremosidade, temperatura, densidade do recheio, acompanhamentos disponveis, textura e sabor.
+173. Evite conhecidos - aplicativo que te mostra a chance de encontrar conhecidos nos lugares em que você vai

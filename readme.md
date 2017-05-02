@@ -181,3 +181,4 @@
 177. Joguinho em que o mundo é formado pelas contribuicoes do github, areas verdes sao andaveis e brancas sao armadilhas. personagem tem que chegar do lado direito
 178. Extensao de navegador que mostra falacias presentes em textos da web
 179. Buzzfeedfy - transforma textos longos em listas de itens, cada item tendo 1 título, 1 imagem principal, 1 parágrafo aps imagem e resto do texto
+180. Jogo da falacia - um quizz que apresenta trechos de textos jornalisticos e pergunta ao usuario qual falacia esta sendo apresentada no trecho

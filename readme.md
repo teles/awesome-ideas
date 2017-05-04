@@ -183,3 +183,4 @@
 179. Buzzfeedfy - transforma textos longos em listas de itens, cada item tendo 1 título, 1 imagem principal, 1 parágrafo aps imagem e resto do texto
 180. Jogo da falacia - um quizz que apresenta trechos de textos jornalisticos e pergunta ao usuario qual falacia esta sendo apresentada no trecho
 181. Jogo online que te dá um grupo limitado de palavras e te pede para formar uma frase. Similar a montar frases com imas de geladeira
+182. State fighters - clone de street figther em que os lutadores sao os chefes de Estado de varios paises

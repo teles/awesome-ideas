@@ -184,3 +184,5 @@
 180. Jogo da falacia - um quizz que apresenta trechos de textos jornalisticos e pergunta ao usuario qual falacia esta sendo apresentada no trecho
 181. Jogo online que te dá um grupo limitado de palavras e te pede para formar uma frase. Similar a montar frases com imas de geladeira
 182. State fighters - clone de street figther em que os lutadores sao os chefes de Estado de varios paises
+183. "Posso te chamar de" - site em que o usuario responde algumas perguntas para saber se pode chamar alguem de determinado adjetivo como "comunista", "fascista", "neo-liberal", "racista".
+

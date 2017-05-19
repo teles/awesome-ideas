@@ -185,4 +185,6 @@
 181. Jogo online que te dá um grupo limitado de palavras e te pede para formar uma frase. Similar a montar frases com imas de geladeira
 182. State fighters - clone de street figther em que os lutadores sao os chefes de Estado de varios paises
 183. "Posso te chamar de" - site em que o usuario responde algumas perguntas para saber se pode chamar alguem de determinado adjetivo como "comunista", "fascista", "neo-liberal", "racista".
+184. 1 deputado por dia - aplicativo que mostra dados de um deputado por dia
+185. Chat em que usuarios precisam se comunicar com letras de musica
 

@@ -189,4 +189,4 @@
 185. Chat em que usuarios precisam se comunicar com letras de musica
 186. O que meu ídolo faria - aplicativo em que vc diz uma situacao que esta passando e te mostra o que alguem famoso fez em situacao similar
 187. Todo contextual - aplicativo que permite cadastrar todos contextuais do tipo: lembre-me de X quando eu estiver no lugar Y por N tempo, ou lembre-me de X sempre que a pessoa Y me ligar
-
+188. Diário online em que usuários pode decidir por compartilhar parágrafos de seu diario

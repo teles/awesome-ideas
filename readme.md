@@ -191,3 +191,4 @@
 187. Todo contextual - aplicativo que permite cadastrar todos contextuais do tipo: lembre-me de X quando eu estiver no lugar Y por N tempo, ou lembre-me de X sempre que a pessoa Y me ligar
 188. Diário online em que usuários pode decidir por compartilhar parágrafos de seu diario
 189. Plugin que conta quantas informacoes foram vistas pelo usuario nas redes sociais e propoe um regime diminuindo a frequencia com que ele ve isso
+190. Plugin do chrome que te pergunta a cada X de tempo: "Valeu a pena passar X de tempo no site Y? Sim x Não"

@@ -195,3 +195,5 @@
 191. Aplicativo para simular um TFM (treinamento fsico militar)
 192. Companheiros de frete - site para pessoas fazerem compras em conjunto com a intenção de atingir valores mínimos de frete grátis
 193. Site que lista os filmes do netflix de acordo com a sua duracao
+194. Aplicativo de alarme que acorda o usuario na hora do por do sol
+195. Aplicativo para ajudar no processo seletivo de dev. Cada habilidade de nova contratacao e dividida entre "Imprescindível", "Desejavel", "Bonus".

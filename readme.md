@@ -197,3 +197,4 @@
 193. Site que lista os filmes do netflix de acordo com a sua duracao
 194. Aplicativo de alarme que acorda o usuario na hora do por do sol
 195. Aplicativo para ajudar no processo seletivo de dev. Cada habilidade de nova contratacao e dividida entre "Imprescindível", "Desejavel", "Bonus".
+196. Aplicativo que lista [8 coisas que todos deveriam fazer antes da manha](https://medium.com/the-mission/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d)

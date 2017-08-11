@@ -202,3 +202,5 @@
 198. Rede social para encontrar pessoas próximas que só funciona quando se está em movimento rápido (em um carro, por exemplo)
 199. Aplicativo que te faz celular cibrar no bolso em determinadas velocidades
 200. Site em que voce pode vender para empresas o direito de escolher seu papel de parede
+201. Dont push the button - pagina com um botão com texto configurável. te diz quanto tempo vc nao clica no botao e qual seu recorde.
+202. Dev stuff or pokemon - lista com nomes de pokemons e tecnologias de desenvolvimento. advinhe qual e qual [baseado nisso](https://scontent.fcpq1-1.fna.fbcdn.net/v/t1.0-9/20622124_2059532120946845_8745300698413645951_n.jpg?oh=dfaa6a1f9f701a54fad828921148c39d&oe=5A291177)

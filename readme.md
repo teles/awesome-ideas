@@ -206,3 +206,4 @@
 202. Dev stuff or pokemon - lista com nomes de pokemons e tecnologias de desenvolvimento. advinhe qual e qual [baseado nisso](https://scontent.fcpq1-1.fna.fbcdn.net/v/t1.0-9/20622124_2059532120946845_8745300698413645951_n.jpg?oh=dfaa6a1f9f701a54fad828921148c39d&oe=5A291177)
 203. Aplicativo para escrever um numero por vez de forma sequencial (parecido com o trabalho de um pintor que esqueci o nome mas queria escrever ate 7.777.777)
 204. Um jogo para ensinar TDD com pokemons
+205. Um quizz que te ajuda a escrever uma boa recomendacao para um colega de trabalho no linkedin

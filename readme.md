@@ -208,3 +208,5 @@
 204. Um jogo para ensinar TDD com pokemons
 205. Um quizz que te ajuda a escrever uma boa recomendacao para um colega de trabalho no linkedin
 206. Talentinder - um app com vagas internas de uma empresa disponibilizado para que seus funcionarios tentem dar match nas vagas
+207. Um plugin que mostra quais sites estao usando infinite-scroll e oferece versao sem essa feature
+

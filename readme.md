@@ -211,3 +211,4 @@
 207. Um plugin que mostra quais sites estao usando infinite-scroll e oferece versao sem essa feature
 208. Plugin chrome similar ao [fluany](https://github.com/fluany/fluany) para traduzir trechos de documentaçoes do github.
 209. git tomato - 3 comandos git: git tomato-timer para contar um pomodoro, git tomato-commit para commitar com :tomato: e git tomato-count para contar quantos pomodoros uma tarefa levou
+210. Gikovate - um aplicativo que faz perguntas a duas pessoas de um casal para entender a perspectiva doador/recebedor de cada um e em seguida compara as respostas e sugere melhorias para tornar o relacionamento equilibrado

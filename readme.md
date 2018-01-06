@@ -200,7 +200,7 @@
 196. Aplicativo que lista [8 coisas que todos deveriam fazer antes da manha](https://medium.com/the-mission/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d)
 197. Um aplicativo para ajudar a dar [nomes para cachorros](https://www.bayerpet.com.br/Caes/lista-nomes/A). [Imagens aqui](https://openclipart.org/search/?query=dog&page=6)
 198. Rede social para encontrar pessoas próximas que só funciona quando se está em movimento rápido (em um carro, por exemplo)
-199. Aplicativo que te faz celular cibrar no bolso em determinadas velocidades
+199. Aplicativo que faz celular vibrar no bolso em determinadas velocidades
 200. Site em que voce pode vender para empresas o direito de escolher seu papel de parede
 201. Dont push the button - pagina com um botão com texto configurável. te diz quanto tempo vc nao clica no botao e qual seu recorde.
 202. Dev stuff or pokemon - lista com nomes de pokemons e tecnologias de desenvolvimento. advinhe qual e qual [baseado nisso](https://scontent.fcpq1-1.fna.fbcdn.net/v/t1.0-9/20622124_2059532120946845_8745300698413645951_n.jpg?oh=dfaa6a1f9f701a54fad828921148c39d&oe=5A291177)

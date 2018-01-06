@@ -49,7 +49,7 @@
 45. Aplicativo para gerar gráfico tipo "papi 3" para competências em tecnologia front-end
 46. Site app agregador de horóscopos no qual o usuário escolhe só receber coisas boas
 47. Site de financiamento coletivo de extensão para licença maternidade
-48. Share a gif: uma rede social para pessoas guardarem links de gifs com decrição.
+48. Share a gif: uma rede social para pessoas guardarem links de gifs com descrição.
 49. Um aplicativo para não te deixar esquecer coisas que você prometeu para sua namorada
 50. tech mashup - um site que propõe mashups entre duas startups de tecnologia
 51. Um tinder-like sem fotos, mas com descrições de personalidade baseada em mbti

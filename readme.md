@@ -216,3 +216,4 @@
 212. Plugin chrome que troca preco de produtos por quantas cestas basicas poderiam ser compradas com valor e indica instituicao pra doacao
 213. Aplicativo para lampada inteligente que faz a luz brilhar quando usuario faz um commit
 214. What if (https://play.google.com/store/apps/details?id=se.ace.whatif&hl=pt_BR) apenas com perguntas de desenvolvimento de software
+215. Antes de comprar - plugin chrome que exibe uma popup quando usuário clica em Comprar perguntando se ele realmente precisa daquilo e informando quanto tempo ele vai ter que trabalhar para pagar

@@ -218,3 +218,4 @@
 214. What if (https://play.google.com/store/apps/details?id=se.ace.whatif&hl=pt_BR) apenas com perguntas de desenvolvimento de software
 215. Antes de comprar - plugin chrome que exibe uma popup quando usuário clica em Comprar perguntando se ele realmente precisa daquilo e informando quanto tempo ele vai ter que trabalhar para pagar
 216. Imas de geladeira para dizer o que tem e o que falta comprar para cozinha. Um aplicativo pode ler esses imas e sugerir receitas ou onde comprar as coisas que estao faltando.
+217. Plugin Jekyll para AMP stories

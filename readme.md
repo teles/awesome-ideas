@@ -220,3 +220,4 @@
 216. Imas de geladeira para dizer o que tem e o que falta comprar para cozinha. Um aplicativo pode ler esses imas e sugerir receitas ou onde comprar as coisas que estao faltando.
 217. Plugin Jekyll para AMP stories
 218. Album de figurinhas de ativistas politicos e movimentos sociais
+219. Site para escolher a temperatura do ar condicionado colaborativamente

@@ -224,3 +224,4 @@
 220. Aplicativo de quiz para ajudar a escrever recomendacao no linkedin para programadores
 221. Site que compara a diferença entre dois page speeds
 222. Plugin que mostra qualquer conteúdo da web como um modal de imagens
+223. Site em que desenvolvedores anotam seus impedimentos para trabalhar. Site gera gráfico de impedimentos mais frequentes.

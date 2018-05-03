@@ -225,4 +225,5 @@
 221. Site que compara a diferença entre dois page speeds
 222. Plugin que mostra qualquer conteúdo da web como um modal de imagens
 223. Site em que desenvolvedores anotam seus impedimentos para trabalhar. Site gera gráfico de impedimentos mais frequentes.
-224.Horóscopo funciona. Quiz que tenta advinhar possivel signo do usuario.
+224. Horóscopo funciona. Quiz que tenta advinhar possivel signo do usuario.
+225. Dev compass. Teste que gera um gráfico tipo political compass mas para devs os classificando entre Velocidade - Qualidade, Generalista - Especialista

@@ -227,3 +227,4 @@
 223. Site em que desenvolvedores anotam seus impedimentos para trabalhar. Site gera gráfico de impedimentos mais frequentes.
 224. Horóscopo funciona. Quiz que tenta advinhar possivel signo do usuario.
 225. Dev compass. Teste que gera um gráfico tipo political compass mas para devs os classificando entre Velocidade - Qualidade, Generalista - Especialista
+226. Site que lista quais são os titulos exclusivos de cada servicos de streaming como netflix, hulu, hbo e prime video

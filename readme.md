@@ -228,3 +228,4 @@
 224. Horóscopo funciona. Quiz que tenta advinhar possivel signo do usuario.
 225. Dev compass. Teste que gera um gráfico tipo political compass mas para devs os classificando entre Velocidade - Qualidade, Generalista - Especialista
 226. Site que lista quais são os titulos exclusivos de cada servicos de streaming como netflix, hulu, hbo e prime video
+227. App para reconhecimento e catálogo de discos de vinil com opção de cadastro de colecionadores e vendedores

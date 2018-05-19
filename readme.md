@@ -231,3 +231,4 @@
 227. App para reconhecimento e catálogo de discos de vinil com opção de cadastro de colecionadores e vendedores
 228. Medidor de autoridade para perfis do Pinterest dentro do Pinterest. Como o Domain Authority para o Google
 229. Plugin chrome que permite salvar um site em uma lista awesome
+230. Site que serve para compartilhar e votar em sugestoes que depois sao classificadas no UI NUI NUI NUNI

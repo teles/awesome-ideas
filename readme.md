@@ -45,7 +45,6 @@
 41. Tinder para gordinhos
 42. 15conto.com.br - avisa onde tem lanches até 15 reais perto do usuário
 43. Aplicativo/site para ofender um estranho gratuitamente
-44. Aplicativo para acompanhar oscilações de humor
 45. Aplicativo para gerar gráfico tipo "papi 3" para competências em tecnologia front-end
 46. Site app agregador de horóscopos no qual o usuário escolhe só receber coisas boas
 47. Site de financiamento coletivo de extensão para licença maternidade

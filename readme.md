@@ -232,3 +232,4 @@
 229. Plugin chrome que permite salvar um site em uma lista awesome
 230. Site que serve para compartilhar e votar em sugestoes que depois sao classificadas no UI NUI NUI NUNI
 231. Plugin que adiciona espaços publicitários monetizáveis ao github e divide a grana entre projetos selecionados
+232. Criar um hook de git para facilitar migracao do github para outros servicos. Esse hook permite que ao commitar em um GitLab ou similar um link para seu commit seja enviado ao GitHub. 

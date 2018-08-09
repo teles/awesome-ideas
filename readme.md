@@ -236,3 +236,4 @@
 233. Um painel de contribuicoes que consegue misturar contribuicoes do GitLab e GitHub
 234. Uma pagina de stories com conteudo de desenvolvimento web https://edition.cnn.com/ampstories
 235. Dontvim - vim que salva e abre conteudo do dontpad.com
+236. Mensageiro que pede que amigos de longa data se perguntem de vez em quando como está a vida

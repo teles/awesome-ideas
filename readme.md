@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-1. Sistema de grid para front end personalizável;
+1. Sistema de grid para front end personalizável
 1. Mixin de sass para background em faixas
 1. Site para publicação de vagas para desenvolvedores front end
 1. Site para perguntas e respostas sobre front end
@@ -216,4 +216,3 @@
 1. Plugin chrome que troca preco de produtos por quantas cestas basicas poderiam ser compradas com valor e indica instituicao pra doacao
 1. Aplicativo para lampada inteligente que faz a luz brilhar quando usuario faz um commit
 1. Noelfunding - Crowdfunding para financiamento de presentes de natal para crianças carentes(as crianças teriam que expor seus boletins com boas notas)
-

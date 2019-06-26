@@ -216,3 +216,34 @@
 1. Plugin chrome que troca preco de produtos por quantas cestas basicas poderiam ser compradas com valor e indica instituicao pra doacao
 1. Aplicativo para lampada inteligente que faz a luz brilhar quando usuario faz um commit
 1. Noelfunding - Crowdfunding para financiamento de presentes de natal para crianças carentes(as crianças teriam que expor seus boletins com boas notas)
+1. Bookmarklet que deixa todas as imagens sepia ou preto e branco ou em negativo
+1. Bookmarklet que gera uma visualizacao somente texto de uma pagina
+1. Bookmarklet que verifica caracteristica de SEO de uma pagina: imagem sem alt, titulo, meta description, etc
+1. Bookmarklet que envia um link para um contato no zapzap
+1. Bookmarklet que conta quantas vezes vc clicou no Bookmarklet
+1. Bookmarklet que pesquisa titulo da pagina em sites de checagem de fatos
+1. Bookmarklet que busca video sobre o titulo da pagina
+1. Bookmarklet que troca imagens do site por fotos de gatinhos
+1. Bookmarklet que abre uma janela te permitindo tentar capturar um pokemon
+1. Bookmarklet que revela as imagens com tamanho bom pra download em uma pagina
+1. Bookmarklet que troca preço de um produto por horas q vc vai precisar pra compra-lo
+1. Bookmarklet que conta regressivamente de 10 a 0
+1. Bookmarklet que fecha popup de bloqueio do adblocker
+1. Bookmarklet que pesquisa o site aberto no reclameaqui ou no lovemondays
+1. Bookmarklet que sorteia um restaurante pra almoçar
+1. Bookmarklet que deleta botoes de comprar nas paginas
+1. Bookmarklet que conta quanto tempo faz que a pagina foi alterada
+1. Bookmarklet que te redireciona para um site aleatório
+1. Bookmarklet que troca as fotos do instagram pelo texto de descrição delas
+1. Bookmarklet que revela o ritmo de leitura de um texto
+1. Bookmarklet que abre o mesmo produto em outros sites
+1. Bookmarklet que converte moeda
+1. Bookmarklet que converte dontpad.com em um editor de markdown
+1. Bookmarklet que conta os dias para suas ferias
+1. Bookmarklet que altera aparencia de rede social / troca cores do facebook
+1. Bookmarklet que joga pedra/papel/tesoura
+1. Bookmarklet que joga cara/coroa
+1. Bookmarklet que abre pagina dos seus cinemas preferidos
+1. Bookmarklet que busca no google algo do site atual
+1. Bookmarklet que gera dados de uma pessoa falsa
+1. Bookmarklet que aumenta/diminui fonte do texto

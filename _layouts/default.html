@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    </head>
+    <style>
+        html, body {
+            font-family: sans-serif;
+        }
+    </style>
+    <body>
+        {% include header.html %}
+
+        <div class="container">
+            {{ content }}
+        </div>
+
+        {% include footer.html %}
+    </body>
+</html>

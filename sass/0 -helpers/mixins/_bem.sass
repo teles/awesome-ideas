@@ -1,0 +1,48 @@
+=modifier($name)
+  @at-root
+    $selector: nth(&, 1)
+    $direct-parent: nth($selector, length($selector))
+    #{$direct-parent}--#{$name}
+      @extend #{$direct-parent} !optional
+    #{&}--#{$name}
+      @content
+
+=modifier-plus-modifier-itself($name)
+  @at-root
+    $selector: nth(&, 1)
+    $direct-parent: nth($selector, length($selector))
+    #{$direct-parent}--#{$name} + #{$direct-parent}--#{$name}
+      @extend #{$direct-parent} !optional
+    #{&}--#{$name} + #{&}--#{$name}
+      @content
+
+=element($name)
+  @at-root
+    $selector: nth(&, 1)
+    $parent: nth($selector, length($selector))
+    $parentSize: str-length($parent)
+    $parentPseudo: str-index($parent, ":")
+    $parentAttribute: str-index($parent, "[")
+    @if ($parentPseudo != null)
+      $parent: str-slice($parent, 0, $parentPseudo - 1)
+      $parentAttribute: str-index($parent, "[")
+      @if ($parentAttribute != null)
+        $parent: str-slice($parent, 0, $parentAttribute - 1)
+      $selector: unquote("#{$selector} #{$parent}__#{$name}")
+    @else if ($parentAttribute != null)
+      $parent: str-slice($parent, 0, $parentAttribute - 1)
+      $selector: unquote("#{$selector} #{$parent}__#{$name}")
+    @else
+      $selector: unquote("#{$selector}__#{$name}")
+    #{$selector}
+      @content
+
+=element-plus-element-itself($name)
+  @at-root
+    #{&}__#{$name} + #{&}__#{$name}
+      @content
+
+=element-when-hover($name)
+  @at-root
+    #{&}:hover #{&}__#{$name}
+      @content

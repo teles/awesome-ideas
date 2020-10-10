@@ -233,3 +233,4 @@
 1. Site chamado Reclame Ali - Você entra, diz qual seu problema e ele te redireciona pro lugar certo pra fazer a reclamação
 1. Site chamado Recomende Aqui - Você entra, responde algumas perguntas e ele te ajuda a escrever uma recomendação do linkedin
 1. Manifesto NaN Developer - Um site com o manifesto "Not A Ninja Developer" sobre ser desenvolvedor e manter o equilíbrio mental
+1. Py3Debugger - Aplicativo Android para debuggar python 3 no estilo vscode que informa o conteúdo das variáveis na memória

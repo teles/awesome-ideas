@@ -234,3 +234,4 @@
 1. Site chamado Recomende Aqui - Você entra, responde algumas perguntas e ele te ajuda a escrever uma recomendação do linkedin
 1. Manifesto NaN Developer - Um site com o manifesto "Not A Ninja Developer" sobre ser desenvolvedor e manter o equilíbrio mental
 1. Aprenda português com emojis - Aprenda os nomes dos emojis em português e em seguida forme frases unindo esses emojis
+1. Miffledin - Extensão que troca o feed do LinkedIn por conteúdo relacionado a Dunder Mifflin

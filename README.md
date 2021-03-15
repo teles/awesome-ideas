@@ -235,3 +235,4 @@
 1. Manifesto NaN Developer - Um site com o manifesto "Not A Ninja Developer" sobre ser desenvolvedor e manter o equilíbrio mental
 1. Aprenda português com emojis - Aprenda os nomes dos emojis em português e em seguida forme frases unindo esses emojis
 1. Miffledin - Extensão que troca o feed do LinkedIn por conteúdo relacionado a Dunder Mifflin
+1. Give My SVG - Site em que você cadastra um svg e os parâmetros que ele pode receber via url e recebe url para usa-lo

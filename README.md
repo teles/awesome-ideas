@@ -236,3 +236,4 @@
 1. Aprenda português com emojis - Aprenda os nomes dos emojis em português e em seguida forme frases unindo esses emojis
 1. Miffledin - Extensão que troca o feed do LinkedIn por conteúdo relacionado a Dunder Mifflin
 1. Give My SVG - Site em que você cadastra um svg e os parâmetros que ele pode receber via url e recebe url para usa-lo
+1. Diferença entre - Um site que mostra diferença entre duas profissões, exemplo: front x back, tech lead x staff engineer

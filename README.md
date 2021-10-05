@@ -238,3 +238,4 @@
 1. Give My SVG - Site em que você cadastra um svg e os parâmetros que ele pode receber via url e recebe url para usa-lo
 1. Diferença entre - Um site que mostra diferença entre duas profissões, exemplo: front x back, tech lead x staff engineer
 1. CSS selector to regex - Uma função que transforma seletores css em regex, útil para manipular html sem usar querySelector
+1. Karoke com letras erradas - Um aplicativo com músicas de karaoke onde as letras são propositalmente erradas, por exemplo 'Is mai la' (It's my life)

@@ -2,6 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. XML Transform - Plugin do chrome que aplica um XSLT sob demanda em arquivos XML abertos no navegador
 1. Sinopses parecidas - Um site que agrupa obras (filmes, livros, quadrinhos) por suas sinopses parecidas
 1. Karoke com letras erradas - Um aplicativo com músicas de karaoke onde as letras são propositalmente erradas, por exemplo 'Is mai la' (It's my life)
 1. CSS selector to regex - Uma função que transforma seletores css em regex, útil para manipular html sem usar querySelector

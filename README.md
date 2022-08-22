@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Buscador de filmes por características incomuns: duração, quantidade de cenas, cortes, cor predominante etc
+1. Mixed characters - site para criar personagens misturando histórias de outros personagens conhecidos automaticamente
 1. 3 buttons - Site e app mobile q permite criar telas com 3 botões para usuários ir clicando e monitorando quantidade de cliques
 1. Aplicativo que escaneia ISBN no códigos de barras de livros e procura os dados em Amazon, Guia dos quadrinhos, estante virtual, etc
 1. XML Transform - Plugin do chrome que aplica um XSLT sob demanda em arquivos XML abertos no navegador

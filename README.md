@@ -2,6 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Smartflower - Dispositivo inteligente em formato de flor que capta dados sobre umidades do ar, temperatura e similares
 1. Donate to play - Aplicativo que bloqueia outros app depois de X tempo de uso e só desbloqueia mediante doação para entidades
 1. Reclamondays - Site mistura de reclame aqui com love mondays onde funcionários podem ir para fazer reclamações sobre onde trabalham
 1. WordPress to PDF - Ferramenta que transforma posts de um blog WordPress em um PDF para impressão

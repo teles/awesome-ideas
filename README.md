@@ -2,6 +2,9 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. DRYF Don't Repeat Your Form - Extensão de navegador para facilitar preenchimento de formulários repetidos para devs
+1. Comentários de leitura - aplicativo com playlists com comentários sobre leituras do tipo "Na página X do livro Y <tal comentário>"
+1. Blockedgram - Versão do instagram onde todos os outros usuários são inicialmente bloqueados, incluindo anunciantes
 1. Smartflower - Dispositivo inteligente em formato de flor que capta dados sobre umidades do ar, temperatura e similares
 1. Donate to play - Aplicativo que bloqueia outros app depois de X tempo de uso e só desbloqueia mediante doação para entidades
 1. Reclamondays - Site mistura de reclame aqui com love mondays onde funcionários podem ir para fazer reclamações sobre onde trabalham

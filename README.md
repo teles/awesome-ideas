@@ -2,6 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Bot de slack que sugere trilhas sonoras para o dia
 1. DRYF Don't Repeat Your Form - Extensão de navegador para facilitar preenchimento de formulários repetidos para devs
 1. Comentários de leitura - aplicativo com playlists com comentários sobre leituras do tipo "Na página X do livro Y <tal comentário>"
 1. Blockedgram - Versão do instagram onde todos os outros usuários são inicialmente bloqueados, incluindo anunciantes

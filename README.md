@@ -2,6 +2,7 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Song poems - Site em que é possível montar poemas e textos usando apenas títulos de música e montar uma playlist no final
 1. GeoGuessr Assistant - Site em que usuário responde perguntas rápidas sobre uma localização para descobrir onde fica
 1. Novas Palavras - Um site com dicionário de novas palavras inventadas em português
 1. Bot de slack que sugere trilhas sonoras para o dia

@@ -258,3 +258,4 @@
 1. Vagas para front - Site para publicação de vagas para desenvolvedores front end
 1. Colorful Stripes - Mixin de sass para background em faixas
 1. Gridiota - Sistema de grid para front end personalizável
+2. Aplicativo que gerencia a permissao de outros apps, mas de codigo aberto.

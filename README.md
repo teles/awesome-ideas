@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Bot de Planilha no WhatsApp - Um bot que permite visualizar e editar itens de planilhas Google via conversa no WhatsApp
+1. Bot de Quizz no WhatsApp - Um bot com coleções de quiz que usuario pode responder no WhatsApp, como DISC, Political Compass, etc
 1. Amigo do marido - serviço de marido de aluguel que só verifica se reparos feitos pelo próprio marido estão certos
 1. Song poems - Site em que é possível montar poemas e textos usando apenas títulos de música e montar uma playlist no final
 1. GeoGuessr Assistant - Site em que usuário responde perguntas rápidas sobre uma localização para descobrir onde fica

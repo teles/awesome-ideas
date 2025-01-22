@@ -2,6 +2,9 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Pairmodoro - Aplicativo para organizar pair programming dividindo os temas em sessões de pair programming
+1. Emojilingo - Site para aprendizado de inglês utilizando quase exclusivamente emojis e gameficação
+1. App Diga Não - Aplicativo que ajuda a declinar convites dos mais variados tipos das mais variadas formas respondendo perguntas sobre tipo de convite
 1. Bot de Planilha no WhatsApp - Um bot que permite visualizar e editar itens de planilhas Google via conversa no WhatsApp
 1. Bot de Quizz no WhatsApp - Um bot com coleções de quiz que usuario pode responder no WhatsApp, como DISC, Political Compass, etc
 1. Amigo do marido - serviço de marido de aluguel que só verifica se reparos feitos pelo próprio marido estão certos

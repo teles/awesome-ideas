@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/awesome-ideas/Lobby](https://badges.gitter.im/awesome-ideas/Lobby.svg)](https://gitter.im/awesome-ideas/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+1. Detector de nível de água - Detector doméstico que é instalado no interior do filtro de barro e avisa quando ele precisar ser abastecido
+1. CLTools - Mini ferramentas web para acompanhamento de trabalho CLT: ponto, férias, pomodoro, diário, etc
 1. Pairmodoro - Aplicativo para organizar pair programming dividindo os temas em sessões de pair programming
 1. Emojilingo - Site para aprendizado de inglês utilizando quase exclusivamente emojis e gameficação
 1. App Diga Não - Aplicativo que ajuda a declinar convites dos mais variados tipos das mais variadas formas respondendo perguntas sobre tipo de convite
